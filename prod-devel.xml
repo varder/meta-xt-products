@@ -4,7 +4,7 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="xen-troops/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="master" revision="master" />
-    <project name="xen-troops/meta-xt-images" path="meta-xt-images" upstream="master" revision="master" />
-    <project name="xen-troops/xt-distro" path="xt-distro" upstream="master" revision="master" />
+    <project name="varder/meta-xt-prod-devel" path="meta-xt-prod-devel" upstream="yocto-v4.7.0" revision="e8bed31195e9e0e1136da07068629bbde60625cc" />
+    <project name="varder/meta-xt-images" path="meta-xt-images" upstream="yocto-v4.7.0" revision="d890113ff3bf4dcac36793694e313d3c618a1c02" />
+    <project name="varder/xt-distro" path="xt-distro" upstream="yocto-v4.7.0" revision="0a80e6754d00992dd77710c15c0b6241b6183c41" />
 </manifest>
